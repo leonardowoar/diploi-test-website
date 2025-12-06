@@ -2,15 +2,8 @@ version: 1
 kind: StaticSite
 name: diploi-test-site
 
-source:
-  root: /
-
 components:
   site:
     type: static
     source: .
-    output: /
-
-deploy:
-  builder: static
-  output: /
+    output: .
