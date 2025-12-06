@@ -3,4 +3,3 @@ components:
   - name: Static Site
     identifier: static
     package: https://github.com/diploi/component-static#main
-  output: /
