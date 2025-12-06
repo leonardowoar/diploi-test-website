@@ -1,8 +1,8 @@
-kind: StaticSite         # Bu projenin statik HTML olduğunu söyler
-name: diploi-test-site   # Proje adı
+kind: StaticSite
+name: diploi-test-site
 source:
-  root: /                # index.html ana dizinde
+  root: /
 deploy:
-  builder: static        # build yok çünkü HTML projesi
-  output: /              # yayınlanacak dizin
+  builder: static
+  output: /
  
