@@ -1,7 +1,8 @@
 kind: StaticSite
 name: diploi-test-site
 source:
-  root: .
+  root: /
 deploy:
-  output: .
+  builder: static
+  output: /
  
