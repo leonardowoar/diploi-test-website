@@ -1,16 +1,6 @@
-version: 1
-kind: StaticSite
-name: your-site-name
-
-source:
-  root: /
-
+diploiVersion: v1.0
 components:
-  site:
-    type: static
-    source: .
-    output: /
-
-deploy:
-  builder: static
+  - name: Static Site
+    identifier: static
+    package: https://github.com/diploi/component-static#main
   output: /
