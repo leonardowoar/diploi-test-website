@@ -1,6 +1,6 @@
 diploiVersion: v1.0
 components:
   - name: Static Site
-    identifier: site
+    identifier: node
     package: https://github.com/diploi/component-nodejs#main
  
