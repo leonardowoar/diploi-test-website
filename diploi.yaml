@@ -1,4 +1,4 @@
-  diploiVersion: v1.0
+diploiVersion: v1.0
 components:
   - name: Static Site
     identifier: static
