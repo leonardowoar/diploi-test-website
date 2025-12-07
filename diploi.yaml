@@ -1,6 +1,0 @@
-diploiVersion: v1.0
-components:
-  - name: Static Site
-    identifier: site
-    package: https://github.com/diploi/component-react-vite#main
- 
