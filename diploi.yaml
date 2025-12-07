@@ -1,6 +1,6 @@
 version: 1
 kind: StaticSite
-name: diploi-test-site
+name: website
 
 source:
   root: /
